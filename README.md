@@ -1,1 +1,2 @@
 # GestioneInventario
+# Author -> Lorenzo
